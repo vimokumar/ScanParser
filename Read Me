@@ -1,0 +1,2 @@
+Usage:
+perl C:\Scripts\Nessus\parse_nessus_xml.v24.pl -d C:\Scripts\Nessus\ 
